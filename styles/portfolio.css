@@ -1,0 +1,236 @@
+.menu-nav-header {
+  display: flex;
+  flex-direction: row;
+  background-color: 0;
+}
+.menu-nav-header ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  justify-content: space-around;
+  text-decoration: none;
+  list-style: none;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.menu-nav-header ul li {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 1.6vw;
+  font-weight: bold;
+  color: aqua;
+}
+.menu-nav-header ul li a {
+  text-decoration: none;
+  color: aqua;
+}
+
+.fondo-header {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  background-color: rgb(17, 0, 255);
+  border-radius: 25px;
+}
+
+.work {
+  max-width: 90%;
+  text-align: center;
+  margin: auto;
+  background-color: grey;
+  border-radius: 15px;
+}
+
+.contenedor-work {
+  width: 200px;
+  height: 100%;
+  min-height: 400px;
+  background-color: red;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  border-radius: 15px;
+  padding: 0px;
+  margin: 15px;
+  margin-right: 0px;
+}
+.contenedor-work h3 {
+  margin: auto;
+}
+.contenedor-work img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 90%;
+  height: 70%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contenedor-work-global {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.study {
+  max-width: 90%;
+  text-align: center;
+  margin: auto;
+  background-color: rgba(18, 228, 28, 0.452);
+  border-radius: 15px;
+}
+
+.contenedor-study {
+  width: 200px;
+  height: 100%;
+  min-height: 400px;
+  background-color: rgb(0, 255, 242);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  border-radius: 15px;
+  padding: 0px;
+  margin: 15px;
+  margin-right: 0px;
+}
+.contenedor-study h3 {
+  margin: auto;
+}
+.contenedor-study img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 90%;
+  height: 70%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contenedor-study-global {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.pleas {
+  max-width: 90%;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(248, 134, 4);
+  border-radius: 15px;
+}
+
+.contenedor-pleas {
+  width: 200px;
+  height: 100%;
+  min-height: 400px;
+  background-color: rgb(251, 255, 0);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  border-radius: 15px;
+  padding: 0px;
+  margin: 15px;
+  margin-right: 0px;
+}
+.contenedor-pleas h3 {
+  margin: auto;
+}
+.contenedor-pleas img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 90%;
+  height: 70%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contenedor-pleas-global {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.menu-nav-footer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.menu-nav-footer ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  justify-content: space-around;
+  text-decoration: none;
+  list-style: none;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.menu-nav-footer ul li {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 1.6vw;
+  font-weight: bold;
+  color: aqua;
+}
+
+.fondo-footer {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  background-color: gainsboro;
+  border-radius: 25px;
+}
+
+.btn-instagram {
+  background-color: rgb(211, 105, 123);
+  padding: 5px;
+  text-decoration: none;
+  color: gainsboro;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-facebook {
+  background-color: rgb(3, 8, 248);
+  padding: 5px;
+  text-decoration: none;
+  color: gainsboro;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-twitter {
+  background-color: rgb(3, 158, 248);
+  padding: 5px;
+  text-decoration: none;
+  color: gainsboro;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-linkedin {
+  background-color: rgb(117, 3, 248);
+  padding: 5px;
+  text-decoration: none;
+  color: gainsboro;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}/*# sourceMappingURL=portfolio.css.map */

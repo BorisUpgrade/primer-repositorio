@@ -1,0 +1,40 @@
+.pleas{
+    max-width: 90%;
+    text-align: center;
+    margin:auto;
+    background-color: rgb(248, 134, 4);
+    border-radius:15px;
+    
+}
+.contenedor-pleas{
+    width:200px;
+    height: 100%;
+    min-height: 400px;
+    background-color: rgb(251, 255, 0);
+    display:flex;
+    flex-wrap: wrap;
+    text-align: center;
+    border-radius:15px;
+    padding:0px;
+    margin:15px;
+    margin-right: 0px;
+    h3{
+        margin:auto;
+        
+    }
+    
+    img{
+        object-fit: cover;
+        width:90%;
+        height:70%;
+        margin:auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}   
+.contenedor-pleas-global{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin:auto;
+}

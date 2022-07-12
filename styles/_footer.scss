@@ -1,0 +1,75 @@
+.menu-nav-footer{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top:20px;
+    
+    
+    ul{
+        display: flex; 
+        flex-direction: row;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+        justify-content: space-around;
+        text-decoration: none;
+        list-style:none;
+        margin:auto;
+        margin-top:2%;
+        margin-bottom: 2%;    
+    li{
+        display: flex;
+        flex-wrap: nowrap;
+        margin-left:10%;
+        margin-right:10%;
+        font-size:1.6vw;
+        font-weight: bold;
+        color:aqua;
+        
+        }
+    
+    }
+}
+.fondo-footer{
+    margin-left:5%;
+    margin-right:5%;
+    width:90%;
+    background-color: gainsboro;
+    border-radius: 25px;
+}
+.btn-instagram{
+    background-color:rgb(211, 105, 123);
+    padding:5px;
+    text-decoration: none;
+    color:gainsboro;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.btn-facebook{
+    background-color:rgb(3, 8, 248);
+    padding:5px;
+    text-decoration: none;
+    color:gainsboro;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.btn-twitter{
+    background-color:rgb(3, 158, 248);
+    padding:5px;
+    text-decoration: none;
+    color:gainsboro;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.btn-linkedin{
+    background-color:rgb(117, 3, 248);
+    padding:5px;
+    text-decoration: none;
+    color:gainsboro;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
